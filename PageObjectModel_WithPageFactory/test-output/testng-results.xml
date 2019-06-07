@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28296" started-at="2016-05-21T11:58:08Z" finished-at="2016-05-21T11:58:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28296" started-at="2016-05-21T11:58:08Z" finished-at="2016-05-21T11:58:36Z">
+      <class name="com.qtpselenium.facebook.pom.testcases.ProfileTest">
+        <test-method status="PASS" signature="testProfile()[pri:0, instance:com.qtpselenium.facebook.pom.testcases.ProfileTest@5f058f00]" name="testProfile" duration-ms="27785" started-at="2016-05-21T17:28:08Z" finished-at="2016-05-21T17:28:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProfile -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.qtpselenium.facebook.pom.testcases.ProfileTest@5f058f00]" name="quit" is-config="true" duration-ms="500" started-at="2016-05-21T17:28:35Z" finished-at="2016-05-21T17:28:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.qtpselenium.facebook.pom.testcases.ProfileTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

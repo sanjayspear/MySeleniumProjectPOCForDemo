@@ -1,0 +1,20 @@
+<suite name="SuiteName" parallel="tests">
+	<test name="Login Test" allow-return-values="true">
+		<classes>
+			<class name="com.vivek.facebook.pom.testcases.LoginTest" />
+		</classes>
+	</test>
+	
+	<test name="Profile Test" allow-return-values="true">
+		<classes>
+			<class name="com.vivek.facebook.pom.testcases.ProfileTest" />
+		</classes>
+	</test>
+	
+	<test name="Change Password Test" allow-return-values="true">
+		<classes>
+			<class name="com.vivek.facebook.pom.testcases.ChangePasswordTest" />
+		</classes>
+	</test>
+</suite>
+
